@@ -1,0 +1,7 @@
+FileContainerOwner TotalSizeInGB
+------------------ ---------------------------------------
+Build              314.1211903784418105
+vstfs:///Rele      2.3050036095075605
+DistributedTask    0.1184259466819755
+
+(3 rows affected)
