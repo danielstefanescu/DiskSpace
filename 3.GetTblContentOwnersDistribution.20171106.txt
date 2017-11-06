@@ -1,0 +1,13 @@
+﻿Owner            BlobSizeInGB
+---------------- ---------------------------------------
+FileContainer    432.0395663706579199
+VersionControl   32.3118986394252773
+TeamTest         21.7401042832059853
+WorkItemTracking 2.2584174619979853
+CodeSense        0.2460725549602500
+Generic          0.1084527168416972
+ProcessTemplate  0.0084064491090771
+BlobStore        0.0003255223846435
+
+(8 rows affected)
+
